@@ -1,4 +1,4 @@
-# ¡Hola! Soy Sergio Barroso Milán 👋
+# 👨‍💻 Sergio Barroso Milán 👋
 
 <p align="center">
   <img src="https://view-counter.api.fnkr.net/badge/views/sergiobarrosomilan.svg" alt="Views">
@@ -8,12 +8,13 @@
 ---
 
 ### 🚀 Sobre mí
-Actualmente soy estudiante de **2º de SMR (Sistemas Microinformáticos y Redes)**. Me apasiona el mundo de la tecnología, desde el hardware hasta la administración de sistemas y el despliegue de servicios.
+Actualmente soy estudiante de **2º de SMR (Sistemas Microinformáticos y Redes)** y estoy realizando mis prácticas profesionales en **Codearts Solutions**. Me apasiona el mundo de la tecnología, desde el hardware hasta la administración de sistemas y redes.
 
-- 🎓 Estudiando en proceso de especialización.
-- 🔧 Enfocado en: Montaje de equipos, Redes (Cisco/CCNA) y Sistemas Operativos.
-- 🌱 Aprendiendo: Scripting básico, Seguridad y Cloud.
-- 💬 Pregúntame sobre: Montaje de PC o cómo configurar una red local.
+- 🏢 **Prácticas actuales:** en **Codearts Solutions**.
+- 🎓 **Formación:** Grado Medio en Sistemas Microinformáticos y Redes.
+- 🔧 **Enfocado en:** Montaje de equipos, Redes (Cisco/CCNA) y Sistemas Operativos.
+- 🌱 **Aprendiendo:** Scripting básico, Seguridad y Cloud.
+- 💬 **Pregúntame sobre:** Montaje de PC o cómo configurar una red local.
 
 ---
 
@@ -39,5 +40,15 @@ Actualmente soy estudiante de **2º de SMR (Sistemas Microinformáticos y Redes)
 
 ### 📫 Conecta conmigo
 <p align="left">
-<a href="https://linkedin.com/in/sergio-barroso-milán-505bb31b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sergio Barroso" height="30" width="40" /></a>
+  <a href="mailto:barrosomilansergio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/sergio-barroso-milán-505bb31b8" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+<p align="center">
+<i>"La mejor forma de predecir el futuro es implementarlo."</i>
 </p>
