@@ -1,4 +1,4 @@
-# ¡Hola! Soy Sergio Barroso 👋
+# ¡Hola! Soy Sergio Barroso Milán 👋
 
 <p align="center">
   <img src="https://view-counter.api.fnkr.net/badge/views/sergiobarrosomilan.svg" alt="Views">
@@ -14,7 +14,6 @@ Actualmente soy estudiante de **2º de SMR (Sistemas Microinformáticos y Redes)
 - 🔧 Enfocado en: Montaje de equipos, Redes (Cisco/CCNA) y Sistemas Operativos.
 - 🌱 Aprendiendo: Scripting básico, Seguridad y Cloud.
 - 💬 Pregúntame sobre: Montaje de PC o cómo configurar una red local.
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
