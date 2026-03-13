@@ -1,4 +1,4 @@
-# ¡Hola! Soy Sergio Barroso 👋
+# ¡Hola! Soy Sergio Barroso Milán 👋
 
 <p align="center">
   <img src="https://view-counter.api.fnkr.net/badge/views/sergiobarrosomilan.svg" alt="Views">
@@ -39,6 +39,6 @@ Actualmente soy estudiante de **2º de SMR (Sistemas Microinformáticos y Redes)
 
 ### 📫 Conecta conmigo
 <p align="left">
-<a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sergio Barroso" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/sergio-barroso-milán-505bb31b8/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sergio Barroso" height="30" width="40" /></a>
 </p>
 -->
