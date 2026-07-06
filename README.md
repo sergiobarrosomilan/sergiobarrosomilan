@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 Sobre mí
-Actualmente soy estudiante de **2º de SMR (Sistemas Microinformáticos y Redes)** y estoy realizando mis prácticas profesionales en **Codearts Solutions**. Me apasiona el mundo de la tecnología, desde el hardware hasta la administración de sistemas y redes.
+Tecnico SMR (Sistemas Microinformáticos y Redes)** y he realizando mis prácticas profesionales en **Codearts Solutions**. Me apasiona el mundo de la tecnología, desde el hardware hasta la administración de sistemas y redes.
 
-- 🏢 **Prácticas actuales:** en **Codearts Solutions**.
+- 🏢 **Prácticas:** en **Codearts Solutions**.
 - 🎓 **Formación:** Grado Medio en Sistemas Microinformáticos y Redes.
 - 🔧 **Enfocado en:** Montaje de equipos, Redes (Cisco/CCNA) y Sistemas Operativos.
 - 🌱 **Aprendiendo:** Scripting básico, Seguridad y Cloud.
